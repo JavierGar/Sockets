@@ -1,0 +1,4 @@
+usuari:  x-p2
+passwd: 15-Xarxes-16
+61 44
+42 30
